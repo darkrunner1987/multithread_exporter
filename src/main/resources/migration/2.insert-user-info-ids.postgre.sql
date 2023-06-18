@@ -1,0 +1,1 @@
+insert into user_info(user_id) select 743784474 + s.i from generate_series(0, 19) s(i);
